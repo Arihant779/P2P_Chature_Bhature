@@ -1,6 +1,5 @@
 # P2P Chat and File Sharing Application 🚀
 
-![Screenshot 2025-02-22 225307](https://github.com/user-attachments/assets/2766cb7d-9b7e-4d48-9ff5-b627065ba038)
 
 
 ## Overview
