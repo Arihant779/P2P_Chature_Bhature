@@ -19,10 +19,4 @@ This project is a peer-to-peer (P2P) messaging and file sharing application writ
 - **Compiler:** A C compiler that supports Windows development (e.g., Visual Studio or MinGW).
 - **Libraries:** Winsock2 library (included with the Windows SDK).
 
-## Installation
 
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/p2p-chat-file-sharing.git
-   cd p2p-chat-file-sharing
