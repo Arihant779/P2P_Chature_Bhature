@@ -36,7 +36,14 @@ This project is a peer-to-peer (P2P) messaging and file sharing application writ
   
 ![Screenshot 2025-02-22 224427](https://github.com/user-attachments/assets/a9f3a00b-d7f7-44c7-a0d9-b42d494035df)
 
-## How to Use 🛠️
+## 📥 Installation & Setup
+
+### 🛠 Requirements
+- **Operating System:** Windows OS (required for Winsock2 API)
+- **Compiler:** C Compiler (MinGW)
+- **Dependencies:** Winsock2 library (included with the Windows SDK)
+
+### 💻 Compiling & Running
 
 1. **Clone the Repository:**
    ```bash
