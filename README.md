@@ -14,6 +14,9 @@ This project is a peer-to-peer (P2P) messaging and file sharing application writ
 - Send and receive text messages between peers.
 
 ![image](https://github.com/user-attachments/assets/1e0e041b-cc0c-4aa5-802b-29e682e8733e)
+### Query Active Peers
+- It retrives the list of all the peers who have send message to this port.
+![Screenshot 2025-02-22 221957](https://github.com/user-attachments/assets/e0562915-b666-4102-a44f-24602ff4d847)
 
 - **Peer Discovery:** Automatically maintains a list of active peers.
 - **File Transfer:** Transfers files in chunks to support large file sizes.
