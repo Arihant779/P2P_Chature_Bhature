@@ -15,7 +15,7 @@ This project is a peer-to-peer (P2P) messaging and file sharing application writ
 
 ### 🔍 Query Active Peers
 - **Active Peer List:** Retrieve a list of all peers that have interacted with your port.
-![Screenshot 2025-02-22 221957](https://github.com/user-attachments/assets/e0562915-b666-4102-a44f-24602ff4d847)
+![Screenshot 2025-02-22 225151](https://github.com/user-attachments/assets/ded0b5ce-71d2-42f2-8867-1d9ab58768e5)
 
 
 ### ❌ Exit from Network
