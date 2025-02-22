@@ -18,7 +18,11 @@ This project is a peer-to-peer (P2P) messaging and file sharing application writ
 - It retrives the list of all the peers who have send message to this port.
 ![Screenshot 2025-02-22 221957](https://github.com/user-attachments/assets/e0562915-b666-4102-a44f-24602ff4d847)
 
-- **Peer Discovery:** Automatically maintains a list of active peers.
+
+### Exit 
+- On exiting, all connected peers are sent a message and this port is removed from their active peers list.
+![Screenshot 2025-02-22 223032](https://github.com/user-attachments/assets/8f5db589-a89a-4798-9723-3a4e1c647eb9)
+
 - **File Transfer:** Transfers files in chunks to support large file sizes.
 - **Ephemeral Port Usage:** Uses ephemeral ports to handle outgoing connections.
 - **Broadcast Messaging:** Connects to all active peers for broadcasting messages.
