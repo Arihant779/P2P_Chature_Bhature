@@ -50,10 +50,12 @@ This project is a peer-to-peer (P2P) messaging and file sharing application writ
 
 ## 🔗 Authors
 
-#### Arihant Jain - 230001009
-#### Tanishq Godha - 230001074
-#### Vedant Jain - 230008038
-#### Bhuva Vasudha -- 230002017
+| **Name**         | **Roll Number** |
+|------------------|-----------------|
+| Arihant Jain     | 230001009       |
+| Tanishq Godha    | 230001074       |
+| Vedant Jain      | 230008038       |
+| Bhuva Vasudha    | 230002017       |
 
 
 
