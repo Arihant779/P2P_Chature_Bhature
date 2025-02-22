@@ -1,5 +1,8 @@
 # P2P Chat and File Sharing Application
 
+![Uploading image.png…]()
+
+
 ## Overview
 
 This project is a peer-to-peer (P2P) messaging and file sharing application written in C for Windows using Winsock2. It enables multiple peers to communicate by sending text messages and transferring files—even large files—by splitting them into chunks. The application uses ephemeral ports for outgoing connections and supports graceful disconnection notifications.
