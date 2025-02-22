@@ -47,6 +47,5 @@ This project is a peer-to-peer (P2P) messaging and file sharing application writ
 3. **Run the Application:**
     ```bash
     .\p2p_chat.exe
-  
 
 
