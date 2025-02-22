@@ -29,7 +29,7 @@ This project is a peer-to-peer (P2P) messaging and file sharing application writ
 -  A broadcast message is sent to all peers who have sent message to this peer. Further those peers will have this peer added to their locak peer list.  
   ![Screenshot 2025-02-22 224004](https://github.com/user-attachments/assets/2a61b573-2ff5-43fd-bbf6-a936c266ec42)
 
-## FIle Transfer Our Bonus Feature 
+## FIle Transfer (Our Bonus Feature) 
 - We have added the additional functionality of File Transfer between peers.
 - Files are transfered in chunks to enable sharing large file sizes.
   
