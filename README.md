@@ -10,7 +10,9 @@ This project is a peer-to-peer (P2P) messaging and file sharing application writ
 
 ## Features
 
-- **Text Messaging:** Send and receive text messages between peers.
+### Text Messaging:
+- Send and receive text messages between peers.
+
 ![image](https://github.com/user-attachments/assets/1e0e041b-cc0c-4aa5-802b-29e682e8733e)
 
 - **Peer Discovery:** Automatically maintains a list of active peers.
