@@ -19,19 +19,20 @@ This project is a peer-to-peer (P2P) messaging and file sharing application writ
 ![Screenshot 2025-02-22 221957](https://github.com/user-attachments/assets/e0562915-b666-4102-a44f-24602ff4d847)
 
 
-### Exit 
+### Exit From Network
 - On exiting, all connected peers are sent a message and this port is removed from their active peers list.
 ![Screenshot 2025-02-22 223032](https://github.com/user-attachments/assets/8f5db589-a89a-4798-9723-3a4e1c647eb9)
 
-- **File Transfer:** Transfers files in chunks to support large file sizes.
-- **Ephemeral Port Usage:** Uses ephemeral ports to handle outgoing connections.
-- **Broadcast Messaging:** Connects to all active peers for broadcasting messages.
-- **Graceful Exit:** Sends exit notifications to all connected peers before quitting.
 
-## Prerequisites
 
-- **Operating System:** Windows (due to the use of Winsock2 and Windows threading APIs).
-- **Compiler:** A C compiler that supports Windows development (e.g., Visual Studio or MinGW).
-- **Libraries:** Winsock2 library (included with the Windows SDK).
+## Bonus Task (Connect to active peers)
+-  A broadcast message is sent to all peers who have sent message to this peer. Further those peers will have this peer added to their locak peer list.  
+  ![Screenshot 2025-02-22 224004](https://github.com/user-attachments/assets/2a61b573-2ff5-43fd-bbf6-a936c266ec42)
+
+## FIle Transfer Our Bonus Feature 
+- We have added the additional functionality of File Transfer between peers.
+- Files are transfered in chunks to enable sharing large file sizes.
+  
+![Screenshot 2025-02-22 224427](https://github.com/user-attachments/assets/a9f3a00b-d7f7-44c7-a0d9-b42d494035df)
 
 
