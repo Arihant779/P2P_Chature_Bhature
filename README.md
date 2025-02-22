@@ -36,4 +36,17 @@ This project is a peer-to-peer (P2P) messaging and file sharing application writ
   
 ![Screenshot 2025-02-22 224427](https://github.com/user-attachments/assets/a9f3a00b-d7f7-44c7-a0d9-b42d494035df)
 
+## How to Use 🛠️
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Arihant779/P2P_Chature_Bhature.git
+2. **Compile the Code**
+   ```bash
+   gcc -o p2p_chat main.c -lws2_32
+3. **Run the Application:**
+    ```bash
+    .\p2p_chat.exe
+  
+
 
